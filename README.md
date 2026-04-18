@@ -66,7 +66,7 @@ PitCrew is a ready-to-use website template designed specifically for competitive
 | **Documentation** | Technical docs section for engineering portfolio |
 | **3D Robot Viewer** | Interactive 3D model viewer for your robot CAD |
 | **Judge Mode** | Printer-friendly page for competition judges |
-| **Accessibility** | High contrast mode for better readability |
+| **Accessibility** | High contrast mode for better readability | 
 | **Search** | Find content across your entire site |
 | **Auto-Deploy** | Push changes and your site updates automatically |
 | **Alumni Archive** | Automatically moves graduated members to alumni page |
