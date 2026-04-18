@@ -1,8 +1,8 @@
 # Site settings
 title: "PitCrew Robotics"
 description: "https://github.com/braineatingmachines/pitcrew"
-url: ""
-baseurl: ""
+url: "https://adritghosh12-arch.github.io"
+baseurl: "/ftcteamsidewayscircles"
 
 # Team configuration
 site:
