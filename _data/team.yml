@@ -1,86 +1,97 @@
-- name: Anya Sharma
+- name: Adrit Ghosh
   role: Team Captain
-  grade: 12
-  graduation_year: 2026
-  bio: Passionate about strategic team management and ensuring the robot consistently meets competition goals. Led the team to state championship last year.
-  image: /assets/images/placeholder.svg
+  grade: 9
+  graduation_year: 2030
+  bio: ???
+  image: ???
   skills:
     - Leadership
     - Strategic Planning
     - Public Speaking
+    - Programming
+    - Designing
 
-- name: Marcus Chen
+- name: Meera Kalakunnath 
+  role: Team Co-Captain
+  grade: 10
+  graduation_year: 2030
+  bio: ???
+  image: ???
+  skills:
+  ???
+  
+- name: Arslan Neran
   role: Build Lead
-  grade: 11
-  graduation_year: 2027
-  bio: Specializes in constructing robust mechanical designs and ensuring the robot's structural integrity. Expert in 3D printing and CNC machining.
-  image: /assets/images/placeholder.svg
+  grade: 9
+  graduation_year: 2030
+  bio: ???
+  image: ???
   skills:
     - Fabrication
     - 3D Printing
     - Mechanical Design
 
-- name: Sofia Rodriguez
+- name: ???
   role: Programming Lead
-  grade: 11
-  graduation_year: 2027
-  bio: Develops sophisticated control algorithms and optimizes robot performance. Created our award-winning autonomous routines.
-  image: /assets/images/placeholder.svg
+  grade: ???
+  graduation_year: ???
+  bio: ???
+  image: ???
   skills:
     - Java
     - Python
     - Computer Vision
 
-- name: James Wilson
+- name: ???
   role: Electrical Lead
-  grade: 10
-  graduation_year: 2028
-  bio: Designs and implements electrical systems with a focus on efficient power distribution and sensor integration.
-  image: /assets/images/placeholder.svg
+  grade: 9
+  graduation_year: 2030
+  bio: ???
+  image: ???
   skills:
     - Wiring
     - Circuit Design
     - Sensors
 
-- name: Emily Foster
+- name: ???
   role: Outreach Lead
-  grade: 11
-  graduation_year: 2027
-  bio: Leads community engagement efforts and manages sponsorship relationships. Coordinates all STEM outreach events.
-  image: /assets/images/placeholder.svg
+  grade: 9
+  graduation_year: 2030
+  bio: ???
+  image: ???
   skills:
     - Event Planning
     - Social Media
     - Marketing
 
-- name: Ryan Park
+- name: ???
   role: Driver
-  grade: 10
-  graduation_year: 2028
-  bio: Primary robot operator with exceptional hand-eye coordination. Practices daily to ensure precise control during matches.
-  image: /assets/images/placeholder.svg
+  grade: 9
+  graduation_year: 2030
+  bio: ???
+  image: ???
   skills:
     - Precision Control
     - Quick Thinking
     - Strategy
 
-- name: Grace Kim
+- name: Lex Lemen
   role: CAD Lead
-  grade: 12
-  graduation_year: 2026
-  bio: Creates detailed 3D models and technical drawings. Manages version control for all design files.
-  image: /assets/images/placeholder.svg
+  grade: 9
+  graduation_year: 2030
+  bio: ???
+  image: ???
   skills:
     - SolidWorks
     - Onshape
     - Technical Drawing
 
-- name: Alex Thompson
+- name: ???
   role: Member
   grade: 9
-  graduation_year: 2029
-  bio: Eager first-year member learning all aspects of robotics. Shows exceptional promise in programming and mechanical work.
-  image: /assets/images/placeholder.svg
+  graduation_year: 2030
+  bio: ???
+  image: ???
   skills:
     - Problem Solving
     - Teamwork
